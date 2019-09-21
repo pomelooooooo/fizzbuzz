@@ -1,2 +1,3 @@
-# fizzbuzz
-Fizzbuzz 
+# fizzbuz
+name:Suwijak
+
