@@ -1,0 +1,22 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "name:Suwijak",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pomelooooooo/fizzbuzz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pomelooooooo/fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/pomelooooooo/fizzbuzz#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
